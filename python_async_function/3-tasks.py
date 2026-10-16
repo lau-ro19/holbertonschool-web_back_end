@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 A regular function that takes an integer max_delay
 and returns an asyncio.Task.

@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 A function that measures the total execution time for wait_n
 and returns total_time / n.

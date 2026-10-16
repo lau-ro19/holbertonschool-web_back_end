@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 A routine that spawns task_wait_random n times
 and returns the list of delays in ascending order.

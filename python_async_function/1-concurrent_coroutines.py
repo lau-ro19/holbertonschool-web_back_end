@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 An async routine that spawns wait_random n times
 with a specified max_delay and returns the list of delays in ascending order.
